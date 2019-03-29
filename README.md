@@ -1,0 +1,1 @@
+# Sigmoidal_Neuron_from_Scratch_using_Numpy
